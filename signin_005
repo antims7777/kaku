@@ -1,4 +1,2 @@
-012,230920,0,2
-CloudVote.PROMO,#"doAction":"gotoVote"#"promoNo":"P020230909"#"no":"A_9"
-CloudVote.PROMO,#"doAction":"gotoVote"#"promoNo":"P020230909"#"no":"A_12"
-CloudVote.PROMO,#"doAction":"gotoVote"#"promoNo":"P020230909"#"no":"A_21"
+012,231011,0,1
+promoMechReg.PROMO,#"m_promo_no":"M23092200007"#"dt_promo_no":"D23092200001"#"gift_code":"share"
